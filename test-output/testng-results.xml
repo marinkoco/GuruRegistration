@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13028" started-at="2021-02-21T16:56:30 CET" finished-at="2021-02-21T16:56:43 CET">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13028" started-at="2021-02-21T16:56:30 CET" finished-at="2021-02-21T16:56:43 CET">
+      <class name="tests.TestGuru">
+        <test-method status="PASS" signature="createDriver()[pri:0, instance:tests.TestGuru@23faf8f2]" name="createDriver" is-config="true" duration-ms="2838" started-at="2021-02-21T16:56:30 CET" finished-at="2021-02-21T16:56:33 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createDriver -->
+        <test-method status="PASS" signature="testLinkToRegPg()[pri:1, instance:tests.TestGuru@23faf8f2]" name="testLinkToRegPg" duration-ms="4787" started-at="2021-02-21T16:56:33 CET" finished-at="2021-02-21T16:56:38 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinkToRegPg -->
+        <test-method status="PASS" signature="testRegForm()[pri:2, instance:tests.TestGuru@23faf8f2]" name="testRegForm" duration-ms="5350" started-at="2021-02-21T16:56:38 CET" finished-at="2021-02-21T16:56:43 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRegForm -->
+      </class> <!-- tests.TestGuru -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
